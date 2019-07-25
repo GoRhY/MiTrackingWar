@@ -10,6 +10,8 @@ El bot subirá por defecto las imágenes en el propio servidor a menos que uses 
 
 Hay 2 versiones de código, una con excepciones, que añade frases a la guerra sin eliminar a los enemigos, y la versión sin excepciones.
 
+Uso: ejecuta vía web el archivo index.php cada hora (o entre horas determinadas) para que se publique la guerra.
+
 # Credenciales
 
 Para obtener tu token de Telegram:
